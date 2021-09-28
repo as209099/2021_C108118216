@@ -26,3 +26,8 @@
 
 - [ ] Todo list
 - [X] Done
+
+```python
+s = "This is a string"
+print(s)
+```
